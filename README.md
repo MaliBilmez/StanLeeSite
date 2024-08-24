@@ -1,4 +1,4 @@
-# <a href="">Stan Lee Page</a>
+# <a href="#"><img src="./img/clip-spiderman-web-20.png" alt="spider-man" width="30px">Stan Lee Page</a>
 
 ## Description
 This is a single-page informational site created using basic HTML and CSS features.
